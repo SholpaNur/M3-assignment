@@ -1,0 +1,5 @@
+let a = parseInt(prompt("First number"))
+let b = parseInt(prompt("Second number"))
+let result = (a>b?a:b)
+alert (`the larger of two numbers is ${result}`)  
+console.log(result)
